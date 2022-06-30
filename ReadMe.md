@@ -1,4 +1,4 @@
-# Documentation diverse et vériée
+# Documentation diverse et variée
 
 Avant tout commit, penser à positionner
 ```
