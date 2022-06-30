@@ -1,3 +1,10 @@
+# Table des matières
+- [Table des matières](#table-des-matières)
+- [Documentation diverse et variée](#documentation-diverse-et-variée)
+- [Configuration PuttY pour vi](#configuration-putty-pour-vi)
+
+*Généré par https://derlin.github.io/bitdowntoc/*
+
 # Documentation diverse et variée
 
 Avant tout commit, penser à positionner
