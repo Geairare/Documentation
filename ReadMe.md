@@ -2,8 +2,9 @@
 - [Table des matières](#table-des-matières)
 - [Documentation diverse et variée](#documentation-diverse-et-variée)
 - [Configuration PuttY pour vi](#configuration-putty-pour-vi)
+- [Aire de jeux](aire-de-jeux)
 
-*Généré par https://derlin.github.io/bitdowntoc/*
+*(Générée par https://derlin.github.io/bitdowntoc/)*
 
 # Documentation diverse et variée
 
@@ -18,3 +19,5 @@ Avant tout commit, penser à positionner
 
 Pour les chiffres du pavé numérique sous vi, cocher "Disable application keypad mode"
 ![Disable application keypad mode](CopiesEcrans/PuTTYTerminalFeatures.jpg)
+
+# [Aire de jeux](https://github.com/Geairare/AireDeJeux#mon-aire-de-jeux)
